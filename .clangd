@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - -I/home/moeq/devel/learn_cuda/cuda-kernels/include
+  Remove: 
+    - --options-file
+    - --generate-code*
+    - -forward-unknown-to-host-compiler
+    - -ccbin=*

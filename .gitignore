@@ -35,3 +35,7 @@
 *.db
 *.opendb
 *.filters
+
+# temp
+build
+out
